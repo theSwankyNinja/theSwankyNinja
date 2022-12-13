@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kyle McKenzie.
-- 👀 I’m interested in digital accessibility an user experience.
+- 👀 I’m interested in digital accessibility and user UX design.
 - 🌱 I’m currently learning Vue.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
